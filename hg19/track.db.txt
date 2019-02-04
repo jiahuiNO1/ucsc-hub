@@ -1,6 +1,23 @@
-track Basal_intersect_bed
+track Basal_sorted_Intersect_bed
 bigDataUrl Basal_sorted_Intersect.bed.bb
 shortLabel Basal_Intersect
 longLabel Basal_Intersect
 type bigBed
 
+track Stromal_sorted_Intersect_bed
+bigDataUrl Stromal_sorted_Intersect.bed.bb
+shortLabel Stromal_Intersect
+longLabel Stromal_Intersect
+type bigBed
+
+track Lumpro_sorted_Intersect_bed
+bigDataUrl Lumpro_sorted_Intersect.bed.bb
+shortLabel Lumpro_Intersect
+longLabel Lumpro_Intersect
+type bigBed
+
+track Matlum_sorted_Intersect_bed
+bigDataUrl Matlum_sorted_Intersect.bed.bb
+shortLabel Matlum_Intersect
+longLabel Matlum_Intersect
+type bigBed
