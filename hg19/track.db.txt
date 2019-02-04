@@ -1,4 +1,4 @@
-track BRCA1_intersect_bed
+track Basal_intersect_bed
 bigDataUrl Basal_sorted_Intersect.bed.bb
 shortLabel Basal_Intersect
 longLabel Basal_Intersect
