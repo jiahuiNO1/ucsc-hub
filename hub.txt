@@ -1,0 +1,6 @@
+hub UCSC Test Hub
+shortLabel Test Hub
+longLabel UCSC Test Hub
+genomesFile genomes.txt
+email email_address
+descriptionUrl https://raw.githubusercontent.com/jiahuiNO1/ucsc-hub/master/hub.txt
