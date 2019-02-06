@@ -21,3 +21,81 @@ bigDataUrl Matlum_sorted_Intersect.bed.bb
 shortLabel Matlum_Intersect
 longLabel Matlum_Intersect
 type bigBed
+
+track sorted_Basal_C_Intersect
+bigDataUrl sorted_Basal_C_Intersect.bed.bb
+shortLabel Basal_C_Intersect
+longLabel Basal_C_Intersect
+type bigBed
+
+track sorted_Stromal_C_Intersect
+bigDataUrl sorted_Stromal_C_Intersect.bed.bb
+shortLabel Stromal_C_Intersect
+longLabel Stromal_C_Intersect
+type bigBed
+
+track sorted_MatLum_C_Intersect
+bigDataUrl sorted_MatLum_C_Intersect.bed.bb
+shortLabel MatLum_C_Intersect
+longLabel MatLum_C_Intersect
+type bigBed
+
+track sorted_LumPro_C_Intersect
+bigDataUrl sorted_LumPro_C_Intersect.bed.bb
+shortLabel LumPro_C_Intersect
+longLabel LumPro_C_Intersect
+type bigBed
+
+track sorted_Basal_NC_Intersect
+bigDataUrl sorted_Basal_NC_Intersect.bed.bb
+shortLabel Basal_NC_Intersect
+longLabel Basal_NC_Intersect
+type bigBed
+
+track sorted_Stromal_NC_Intersect
+bigDataUrl sorted_Stromal_NC_Intersect.bed.bb
+shortLabel Stromal_NC_Intersect
+longLabel Stromal_NC_Intersect
+type bigBed
+
+track sorted_MatLum_NC_Intersect
+bigDataUrl sorted_MatLum_NC_Intersect.bed.bb
+shortLabel MatLum_NC_Intersect
+longLabel MatLum_NC_Intersect
+type bigBed
+
+track sorted_LumPro_NC_Intersect
+bigDataUrl sorted_LumPro_NC_Intersect.bed.bb
+shortLabel LumPro_NC_Intersect
+longLabel LumPro_NC_Intersect
+type bigBed
+
+track sorted_Basal_C_Intersect
+bigDataUrl sorted_Basal_C_Intersect.bed.bb
+shortLabel Basal_C_Intersect
+longLabel Basal_C_Intersect
+type bigBed
+
+track sorted_Stromal_C_Intersect
+bigDataUrl sorted_Stromal_C_Intersect.bed.bb
+shortLabel Stromal_C_Intersect
+longLabel Stromal_C_Intersect
+type bigBed
+
+track sorted_MatLum_C_Intersect
+bigDataUrl sorted_MatLum_C_Intersect.bed.bb
+shortLabel MatLum_C_Intersect
+longLabel MatLum_C_Intersect
+type bigBed
+
+track sorted_Crlcell_NT_Intersect
+bigDataUrl sorted_Crlcell_NT_Intersect.bed.bb
+shortLabel Crlcell_NT_Intersect
+longLabel Crlcell_NT_Intersect
+type bigBed
+
+track sorted_Ewingcell_NT_Intersect
+bigDataUrl sorted_Ewingcell_NT_Intersect.bed.bb
+shortLabel Ewingcell_NT_Intersect
+longLabel Ewingcell_NT_Intersect
+type bigBed
